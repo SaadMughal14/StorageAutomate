@@ -1,5 +1,5 @@
 # StorageAutomate
-StorageAutomate -- Automated Payment Reminders for Storage Facilities
+StorageAutomate -- Automated Payment Reminders for Storage Facilities:
 
 - Setup fee: $250 (one-time)
 - Monthly fee: $50 after free first month
